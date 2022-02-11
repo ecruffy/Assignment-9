@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Eros Cloede B. Ruffy",
+        "Age": "19",
+        "Date of Birth": "February 31, 2002",
+        "Sex": "Male",
+        "Civil Status": "Single",
+        "Address": "Olympus Mons, Mars",
+        "Height": "175 cm",
+        "Weight": "62 kg",
+        "Nationality": "Filipino",
+        "Religion": "Catholic",
+        "email": "iloveyou-3000@gmail.com",
+        "Contact Number": "09876543210",
+    
+        "Soft Skills": ["Understanding", "Punctual", "Honest", "Organized", "Calm", "Team Player", "Realist", "Open minded", "Patient", "Obedient"],
+        "Technical Skills": ["Computer Aided Drafting", "Manual Drafting"],
+        "Awards and Recognition": ["2015- Graduated Primary School as a Valedictorian with a GWA of 95", "2019- Graduated Highschool with GWA of 93", "2019- NCII Certificate Holder for Technical Drafting", "2019- 1st Place in the World Invention Competition and Exhibition"],
+        "Educational Background": [
+            {
+                "school": "Nicolites Montessori School",
+                "year": "2009-2015"
+            },
+            {
+                "school": "Batangas Province Science High School",
+                "year": "2015-2019"
+            },
+            {
+                "school": "Tagaytay City Science National High School",
+                "year": "2019-2021"
+            },
+            {
+                "school": "Polytechnic University of the Philippines",
+                "year": "2021-Present"
+            }
+        ]
+    }
+]
